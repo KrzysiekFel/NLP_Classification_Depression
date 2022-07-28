@@ -4,5 +4,5 @@ Detecting signs of depression in Social Media - project ongoing.
 2. Analyzing data - done.
 3. Prepare baseline - 
 4. Pipeline
-5. Traind classification models
+5. Train classification models
 6. Neural network
