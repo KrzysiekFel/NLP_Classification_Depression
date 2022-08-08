@@ -5,4 +5,4 @@ Detecting signs of depression in Social Media - project ongoing.
 3. Data exploration - done.
 4. Baseline - done.
 5. Modeling - ongoing
-6. Neural network
+6. Neural network - ongoing
